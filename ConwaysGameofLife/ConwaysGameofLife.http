@@ -1,0 +1,6 @@
+# @ConwaysGameofLife_HostAddress = http://localhost:5003
+
+# GET {{ConwaysGameofLife_HostAddress}}/gameOflife/
+# Accept: application/json
+
+###
